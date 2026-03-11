@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "BOOZE",
+  "base_artist": "DEXCORE",
+  "createdAt": "2026-03-11T13:49:16.967528Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Battle of the Booze",
+      "artist": "The Proclaimers",
+      "has_synced": true,
+      "path": "select/01_The_Battle_of_the_Booze_The_Proclaimers.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Solid Booze",
+      "artist": "Falco",
+      "has_synced": false,
+      "path": "select/02_Solid_Booze_Falco.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "So Long, And Thanks For All The Booze",
+      "artist": "All Time Low",
+      "has_synced": true,
+      "path": "select/03_So_Long,_And_Thanks_For_All_The_Booze_All_Time_Low.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "So Long, and Thanks for All The Booze",
+      "artist": "All Time Low",
+      "has_synced": true,
+      "path": "select/04_So_Long,_and_Thanks_for_All_The_Booze_All_Time_Low.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Blood, Sex and Booze",
+      "artist": "Green Day",
+      "has_synced": true,
+      "path": "select/05_Blood,_Sex_and_Booze_Green_Day.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Blood, Sex and Booze",
+      "artist": "Green Day",
+      "has_synced": true,
+      "path": "select/06_Blood,_Sex_and_Booze_Green_Day.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "However Much I Booze",
+      "artist": "The Who",
+      "has_synced": true,
+      "path": "select/07_However_Much_I_Booze_The_Who.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Pool Of Booze, Booze, Booza",
+      "artist": "Volbeat",
+      "has_synced": true,
+      "path": "select/08_Pool_Of_Booze,_Booze,_Booza_Volbeat.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Born to Booze",
+      "artist": "Black Label Society",
+      "has_synced": true,
+      "path": "select/09_Born_to_Booze_Black_Label_Society.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Don't Need The Booze (To Get A Buzz On)",
+      "artist": "Alan Jackson",
+      "has_synced": true,
+      "path": "select/10_I_Don't_Need_The_Booze_(To_Get_A_Buzz_On)_Alan_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Brother Booze",
+      "artist": "Muskee",
+      "has_synced": false,
+      "path": "select/11_Brother_Booze_Muskee.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Pool of Booze, Booze, Booza / Boa (Live @ Forum / Copenhagen)",
+      "artist": "Volbeat",
+      "has_synced": false,
+      "path": "select/12_Pool_of_Booze,_Booze,_Booza___Boa_(Live_@_Forum___Copenhagen)_Volbeat.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Pool Of Booze, Booze, Booza/BOA",
+      "artist": "Volbeat",
+      "has_synced": false,
+      "path": "select/13_Pool_Of_Booze,_Booze,_Booza_BOA_Volbeat.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Church (of Booze and Kerosene)",
+      "artist": "Motorjesus",
+      "has_synced": false,
+      "path": "select/14_The_Church_(of_Booze_and_Kerosene)_Motorjesus.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Booze, Tobacco, Dope, Pussy, Cars",
+      "artist": "Butthole Surfers",
+      "has_synced": false,
+      "path": "select/15_Booze,_Tobacco,_Dope,_Pussy,_Cars_Butthole_Surfers.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BOOZE",
+      "artist": "DEXCORE",
+      "has_synced": false,
+      "path": "select/pl_01_BOOZE_DEXCORE.txt"
+    }
+  ]
+}
